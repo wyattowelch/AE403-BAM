@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: bam_launcher
+Version: 0.0.1
+Summary: BAM ROS2 Node Launcher
+Maintainer: Newton Campbell
+Maintainer-email: newton.h.campbell@nasa.gov
+License: TODO: License declaration
+Requires-Dist: setuptools
+Provides-Extra: test
+Requires-Dist: pytest; extra == "test"
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: summary

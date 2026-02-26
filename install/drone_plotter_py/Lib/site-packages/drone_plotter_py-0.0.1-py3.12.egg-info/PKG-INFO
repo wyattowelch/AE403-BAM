@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: drone_plotter_py
+Version: 0.0.1
+Summary: ROS2 package that subscribes to /pub_pose and plots drone trajectory in 3D
+Maintainer: Newton Campbell
+Maintainer-email: newton.h.campbell@nasa.gov
+License: TODO: License declaration
+Requires-Dist: setuptools
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Provides-Extra: test
+Requires-Dist: pytest; extra == "test"
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: summary

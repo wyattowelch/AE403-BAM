@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\BAM\AE403-BAM\build\mat_airsim_bball_pub\CMakeFiles\f06fa426fcb969cde87280f56f9b4e97\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C86D6BBF-E645-3357-842D-B32EBC226AA7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

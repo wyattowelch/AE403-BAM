@@ -1,0 +1,75 @@
+[0.125s] Invoking command in 'D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE D:\BAM\AE403-BAM\ROS2_ws\s_function_pkgs\publishers\mat_airsim_pub_nonlib -DCMAKE_INSTALL_PREFIX=D:\BAM\AE403-BAM\install\mat_airsim_pub_nonlib -G Visual Studio 17 2022
+[0.969s] -- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+[2.313s] -- The C compiler identification is MSVC 19.38.33145.0
+[3.609s] -- The CXX compiler identification is MSVC 19.38.33145.0
+[4.094s] -- Detecting C compiler ABI info
+[5.172s] -- Detecting C compiler ABI info - done
+[5.250s] -- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+[5.250s] -- Detecting C compile features
+[5.281s] -- Detecting C compile features - done
+[5.453s] -- Detecting CXX compiler ABI info
+[6.453s] -- Detecting CXX compiler ABI info - done
+[6.938s] -- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+[6.938s] -- Detecting CXX compile features
+[6.938s] -- Detecting CXX compile features - done
+[6.938s] -- Source Directory (SRC_DIR): D:/BAM/AE403-BAM/ROS2_ws/s_function_pkgs/publishers/mat_airsim_pub_nonlib
+[6.938s] -- Workspace Root Directory (WS_ROOT_DIR): D:/BAM/AE403-BAM/ROS2_ws
+[6.938s] -- Found ament_cmake: 2.5.4 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_cmake/cmake)
+[7.828s] -- Found Python3: C:/Users/SirSi/robostack/.pixi/envs/jazzy/python.exe (found version "3.12.11") found components: Interpreter
+[9.625s] -- Found rclcpp: 28.1.9 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rclcpp/cmake)
+[10.859s] -- Found rosidl_generator_c: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_c/cmake)
+[11.141s] -- Found rosidl_generator_cpp: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_cpp/cmake)
+[11.656s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[12.094s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[14.047s] -- Found rmw_implementation_cmake: 7.3.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_implementation_cmake/cmake)
+[14.156s] -- Found rmw_fastrtps_cpp: 8.4.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_fastrtps_cpp/cmake)
+[15.328s] -- Found OpenSSL: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/lib/libcrypto.lib (found version "3.5.0")
+[15.594s] -- Found FastRTPS: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/include (Required is at least version "2.13")
+[15.656s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[17.672s] -- Found geometry_msgs: 5.3.6 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/geometry_msgs/cmake)
+[18.781s] -- Found Matlab: C:/Program Files/MATLAB (found version "25.1.0.2943329") found components: SIMULINK
+[18.781s] -- Matlab root directory found: C:/Program Files/MATLAB.
+[18.797s] -- Found ament_lint_auto: 0.17.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_lint_auto/cmake)
+[19.094s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[19.094s] -- Configured cppcheck include dirs: 
+[19.094s] -- Configured cppcheck exclude dirs and/or files: 
+[19.172s] -- Added test 'lint_cmake' to check CMake code style
+[19.266s] -- Added test 'uncrustify' to check C / C++ code style
+[19.266s] -- Configured uncrustify additional arguments: 
+[19.344s] -- Added test 'xmllint' to check XML markup files
+[19.422s] -- Configuring done (19.1s)
+[19.797s] -- Generating done (0.4s)
+[19.859s] -- Build files have been written to: D:/BAM/AE403-BAM/build/mat_airsim_pub_nonlib
+[19.875s] Invoked command in 'D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib' returned '0': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE D:\BAM\AE403-BAM\ROS2_ws\s_function_pkgs\publishers\mat_airsim_pub_nonlib -DCMAKE_INSTALL_PREFIX=D:\BAM\AE403-BAM\install\mat_airsim_pub_nonlib -G Visual Studio 17 2022
+[19.891s] Invoking command in 'D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib': CL=/MP PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --build D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib --config Release
+[20.094s] MSBuild version 17.14.40+3e7442088 for .NET Framework
+[20.125s] 
+[20.453s]   1>Checking Build System
+[20.656s]   Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/s_function_pkgs/publishers/mat_airsim_pub_nonlib/CMakeLists.txt
+[20.859s]   mat_airsim_pub_nonlib.cpp
+[26.375s] cl : command line  warning D9025: overriding '/W1' with '/w' [D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib\mat_airsim_pub_nonlib.vcxproj]
+[26.375s]   c_mexapi_version.c
+[26.594s] LINK : warning LNK4044: unrecognized option '/Wl,-defaultlib:C:/Users/SirSi/robostack/.pixi/envs/jazzy/lib/clang/19/lib/windows/clang_rt.builtins-x86_64.lib'; ignored [D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib\mat_airsim_pub_nonlib.vcxproj]
+[26.594s]      Creating library D:/BAM/AE403-BAM/build/mat_airsim_pub_nonlib/Release/mat_airsim_pub_nonlib.lib and object D:/BAM/AE403-BAM/build/mat_airsim_pub_nonlib/Release/mat_airsim_pub_nonlib.exp
+[26.672s]   mat_airsim_pub_nonlib.vcxproj -> D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib\Release\mat_airsim_pub_nonlib.mexw64
+[26.766s]   Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/s_function_pkgs/publishers/mat_airsim_pub_nonlib/CMakeLists.txt
+[26.953s] Invoked command in 'D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib' returned '0': CL=/MP PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --build D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib --config Release
+[26.953s] Invoking command in 'D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --install D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib --config Release
+[27.016s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/lib/mat_airsim_pub_nonlib/mat_airsim_pub_nonlib.lib
+[27.047s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/lib/mat_airsim_pub_nonlib/mat_airsim_pub_nonlib.mexw64
+[27.063s] -- Installing: D:/BAM/AE403-BAM/ROS2_ws/bin/mat_airsim_pub_nonlib.lib
+[27.094s] -- Installing: D:/BAM/AE403-BAM/ROS2_ws/bin/mat_airsim_pub_nonlib.mexw64
+[27.094s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/ament_index/resource_index/package_run_dependencies/mat_airsim_pub_nonlib
+[27.094s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/ament_index/resource_index/parent_prefix_path/mat_airsim_pub_nonlib
+[27.109s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/mat_airsim_pub_nonlib/environment/ament_prefix_path.bat
+[27.109s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/mat_airsim_pub_nonlib/environment/ament_prefix_path.dsv
+[27.109s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/mat_airsim_pub_nonlib/environment/path.bat
+[27.109s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/mat_airsim_pub_nonlib/environment/path.dsv
+[27.141s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/mat_airsim_pub_nonlib/local_setup.bat
+[27.156s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/mat_airsim_pub_nonlib/local_setup.dsv
+[27.172s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/mat_airsim_pub_nonlib/package.dsv
+[27.172s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/ament_index/resource_index/packages/mat_airsim_pub_nonlib
+[27.188s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/mat_airsim_pub_nonlib/cmake/mat_airsim_pub_nonlibConfig.cmake
+[27.188s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/mat_airsim_pub_nonlib/cmake/mat_airsim_pub_nonlibConfig-version.cmake
+[27.188s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_pub_nonlib/share/mat_airsim_pub_nonlib/package.xml
+[27.188s] Invoked command in 'D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib' returned '0': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --install D:\BAM\AE403-BAM\build\mat_airsim_pub_nonlib --config Release

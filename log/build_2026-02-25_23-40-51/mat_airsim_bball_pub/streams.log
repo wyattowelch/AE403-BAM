@@ -1,0 +1,74 @@
+[0.203s] Invoking command in 'D:\BAM\AE403-BAM\build\mat_airsim_bball_pub': AMENT_PREFIX_PATH=D:\BAM\AE403-BAM\install\ros_msg_iface;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=D:\BAM\AE403-BAM\install\ros_msg_iface;%CMAKE_PREFIX_PATH% PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE D:\BAM\AE403-BAM\ROS2_ws\s_function_pkgs\publishers\mat_airsim_bball_pub -DCMAKE_INSTALL_PREFIX=D:\BAM\AE403-BAM\install\mat_airsim_bball_pub -G Visual Studio 17 2022
+[0.375s] -- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+[1.422s] -- The C compiler identification is MSVC 19.38.33145.0
+[2.094s] -- The CXX compiler identification is MSVC 19.38.33145.0
+[2.110s] -- Detecting C compiler ABI info
+[2.860s] -- Detecting C compiler ABI info - done
+[2.922s] -- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+[2.938s] -- Detecting C compile features
+[2.938s] -- Detecting C compile features - done
+[2.938s] -- Detecting CXX compiler ABI info
+[3.688s] -- Detecting CXX compiler ABI info - done
+[3.750s] -- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+[3.750s] -- Detecting CXX compile features
+[3.750s] -- Detecting CXX compile features - done
+[3.750s] -- Source Directory (SRC_DIR): D:/BAM/AE403-BAM/ROS2_ws/s_function_pkgs/publishers/mat_airsim_bball_pub
+[3.750s] -- Workspace Root Directory (WS_ROOT_DIR): D:/BAM/AE403-BAM/ROS2_ws
+[3.766s] -- Found ament_cmake: 2.5.4 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_cmake/cmake)
+[4.172s] -- Found Python3: C:/Users/SirSi/robostack/.pixi/envs/jazzy/python.exe (found version "3.12.11") found components: Interpreter
+[4.532s] -- Found ros_msg_iface: 0.0.0 (D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/cmake)
+[4.703s] -- Found rosidl_generator_c: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_c/cmake)
+[4.750s] -- Found rosidl_generator_cpp: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_cpp/cmake)
+[4.797s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.860s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.125s] -- Found rmw_implementation_cmake: 7.3.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_implementation_cmake/cmake)
+[5.157s] -- Found rmw_fastrtps_cpp: 8.4.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_fastrtps_cpp/cmake)
+[5.328s] -- Found OpenSSL: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/lib/libcrypto.lib (found version "3.5.0")
+[5.438s] -- Found FastRTPS: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/include (Required is at least version "2.13")
+[5.500s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.953s] -- Found Matlab: C:/Program Files/MATLAB (found version "25.1.0.2943329") found components: SIMULINK
+[5.953s] -- Matlab root directory found: C:/Program Files/MATLAB.
+[5.969s] -- Found ament_lint_auto: 0.17.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_lint_auto/cmake)
+[6.188s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[6.188s] -- Configured cppcheck include dirs: 
+[6.188s] -- Configured cppcheck exclude dirs and/or files: 
+[6.188s] -- Added test 'lint_cmake' to check CMake code style
+[6.188s] -- Added test 'uncrustify' to check C / C++ code style
+[6.203s] -- Configured uncrustify additional arguments: 
+[6.203s] -- Added test 'xmllint' to check XML markup files
+[6.203s] -- Configuring done (6.0s)
+[6.438s] -- Generating done (0.2s)
+[6.516s] -- Build files have been written to: D:/BAM/AE403-BAM/build/mat_airsim_bball_pub
+[6.516s] Invoked command in 'D:\BAM\AE403-BAM\build\mat_airsim_bball_pub' returned '0': AMENT_PREFIX_PATH=D:\BAM\AE403-BAM\install\ros_msg_iface;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=D:\BAM\AE403-BAM\install\ros_msg_iface;%CMAKE_PREFIX_PATH% PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE D:\BAM\AE403-BAM\ROS2_ws\s_function_pkgs\publishers\mat_airsim_bball_pub -DCMAKE_INSTALL_PREFIX=D:\BAM\AE403-BAM\install\mat_airsim_bball_pub -G Visual Studio 17 2022
+[6.516s] Invoking command in 'D:\BAM\AE403-BAM\build\mat_airsim_bball_pub': AMENT_PREFIX_PATH=D:\BAM\AE403-BAM\install\ros_msg_iface;%AMENT_PREFIX_PATH% CL=/MP CMAKE_PREFIX_PATH=D:\BAM\AE403-BAM\install\ros_msg_iface;%CMAKE_PREFIX_PATH% PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --build D:\BAM\AE403-BAM\build\mat_airsim_bball_pub --config Release
+[6.703s] MSBuild version 17.14.40+3e7442088 for .NET Framework
+[6.735s] 
+[7.000s]   1>Checking Build System
+[7.188s]   Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/s_function_pkgs/publishers/mat_airsim_bball_pub/CMakeLists.txt
+[7.360s]   mat_airsim_bball_pub.cpp
+[7.907s] cl : command line  warning D9025: overriding '/W1' with '/w' [D:\BAM\AE403-BAM\build\mat_airsim_bball_pub\mat_airsim_bball_pub.vcxproj]
+[7.907s]   c_mexapi_version.c
+[8.000s] LINK : warning LNK4044: unrecognized option '/Wl,-defaultlib:C:/Users/SirSi/robostack/.pixi/envs/jazzy/lib/clang/19/lib/windows/clang_rt.builtins-x86_64.lib'; ignored [D:\BAM\AE403-BAM\build\mat_airsim_bball_pub\mat_airsim_bball_pub.vcxproj]
+[8.016s]      Creating library D:/BAM/AE403-BAM/build/mat_airsim_bball_pub/Release/mat_airsim_bball_pub.lib and object D:/BAM/AE403-BAM/build/mat_airsim_bball_pub/Release/mat_airsim_bball_pub.exp
+[8.094s]   mat_airsim_bball_pub.vcxproj -> D:\BAM\AE403-BAM\build\mat_airsim_bball_pub\Release\mat_airsim_bball_pub.mexw64
+[8.157s]   Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/s_function_pkgs/publishers/mat_airsim_bball_pub/CMakeLists.txt
+[8.266s] Invoked command in 'D:\BAM\AE403-BAM\build\mat_airsim_bball_pub' returned '0': AMENT_PREFIX_PATH=D:\BAM\AE403-BAM\install\ros_msg_iface;%AMENT_PREFIX_PATH% CL=/MP CMAKE_PREFIX_PATH=D:\BAM\AE403-BAM\install\ros_msg_iface;%CMAKE_PREFIX_PATH% PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --build D:\BAM\AE403-BAM\build\mat_airsim_bball_pub --config Release
+[8.266s] Invoking command in 'D:\BAM\AE403-BAM\build\mat_airsim_bball_pub': AMENT_PREFIX_PATH=D:\BAM\AE403-BAM\install\ros_msg_iface;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=D:\BAM\AE403-BAM\install\ros_msg_iface;%CMAKE_PREFIX_PATH% PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --install D:\BAM\AE403-BAM\build\mat_airsim_bball_pub --config Release
+[8.344s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/lib/mat_airsim_bball_pub/mat_airsim_bball_pub.lib
+[8.375s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/lib/mat_airsim_bball_pub/mat_airsim_bball_pub.mexw64
+[8.391s] -- Installing: D:/BAM/AE403-BAM/ROS2_ws/bin/mat_airsim_bball_pub.lib
+[8.422s] -- Installing: D:/BAM/AE403-BAM/ROS2_ws/bin/mat_airsim_bball_pub.mexw64
+[8.438s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/ament_index/resource_index/package_run_dependencies/mat_airsim_bball_pub
+[8.453s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/ament_index/resource_index/parent_prefix_path/mat_airsim_bball_pub
+[8.453s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/environment/ament_prefix_path.bat
+[8.453s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/environment/ament_prefix_path.dsv
+[8.453s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/environment/path.bat
+[8.453s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/environment/path.dsv
+[8.516s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/local_setup.bat
+[8.532s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/local_setup.dsv
+[8.547s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/package.dsv
+[8.547s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/ament_index/resource_index/packages/mat_airsim_bball_pub
+[8.578s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/cmake/mat_airsim_bball_pubConfig.cmake
+[8.578s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/cmake/mat_airsim_bball_pubConfig-version.cmake
+[8.578s] -- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/package.xml
+[8.578s] Invoked command in 'D:\BAM\AE403-BAM\build\mat_airsim_bball_pub' returned '0': AMENT_PREFIX_PATH=D:\BAM\AE403-BAM\install\ros_msg_iface;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=D:\BAM\AE403-BAM\install\ros_msg_iface;%CMAKE_PREFIX_PATH% PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --install D:\BAM\AE403-BAM\build\mat_airsim_bball_pub --config Release

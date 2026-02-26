@@ -1,0 +1,78 @@
+-- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+-- The C compiler identification is MSVC 19.38.33145.0
+-- The CXX compiler identification is MSVC 19.38.33145.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_cmake/cmake)
+-- Found Python3: C:/Users/SirSi/robostack/.pixi/envs/jazzy/python.exe (found version "3.12.11") found components: Interpreter
+-- Found rclcpp: 28.1.9 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 7.3.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/lib/libcrypto.lib (found version "3.5.0")
+-- Found FastRTPS: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/include (Required is at least version "2.13")
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found geometry_msgs: 5.3.6 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/geometry_msgs/cmake)
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - not found
+-- Found Threads: TRUE
+-- Found ament_lint_auto: 0.17.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_lint_auto/cmake)
+-- Processing Bam2Airsim Node...
+-- Processing TestPosePub Node...
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Configured 'flake8' exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (20.5s)
+-- Generating done (0.5s)
+-- Build files have been written to: D:/BAM/AE403-BAM/build/bam_2_airsim_pkg
+MSBuild version 17.14.40+3e7442088 for .NET Framework
+
+  1>Checking Build System
+  Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/visualization_pkgs/bam_2_airsim/Bam2Airsim/CMakeLists.txt
+  Bam2Airsim.cpp
+  BamAirsimNode.cpp
+LINK : warning LNK4044: unrecognized option '/Wl,-defaultlib:C:/Users/SirSi/robostack/.pixi/envs/jazzy/lib/clang/19/lib/windows/clang_rt.builtins-x86_64.lib'; ignored [D:\BAM\AE403-BAM\build\bam_2_airsim_pkg\Bam2Airsim\Bam2Airsim.vcxproj]
+  Bam2Airsim.vcxproj -> D:\BAM\AE403-BAM\build\bam_2_airsim_pkg\Bam2Airsim\Release\Bam2Airsim.exe
+  Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/visualization_pkgs/bam_2_airsim/TestPosePub/CMakeLists.txt
+  BamTestPubNode.cpp
+  TestPosePub.cpp
+LINK : warning LNK4044: unrecognized option '/Wl,-defaultlib:C:/Users/SirSi/robostack/.pixi/envs/jazzy/lib/clang/19/lib/windows/clang_rt.builtins-x86_64.lib'; ignored [D:\BAM\AE403-BAM\build\bam_2_airsim_pkg\TestPosePub\TestPosePub.vcxproj]
+  TestPosePub.vcxproj -> D:\BAM\AE403-BAM\build\bam_2_airsim_pkg\TestPosePub\Release\TestPosePub.exe
+  Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/visualization_pkgs/bam_2_airsim/CMakeLists.txt
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/lib/bam_2_airsim_pkg/Bam2Airsim.exe
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/lib/bam_2_airsim_pkg/TestPosePub.exe
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/ament_index/resource_index/package_run_dependencies/bam_2_airsim_pkg
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/ament_index/resource_index/parent_prefix_path/bam_2_airsim_pkg
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/environment/ament_prefix_path.bat
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/environment/ament_prefix_path.dsv
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/environment/path.bat
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/environment/path.dsv
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/local_setup.bat
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/local_setup.dsv
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/package.dsv
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/ament_index/resource_index/packages/bam_2_airsim_pkg
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/cmake/bam_2_airsim_pkgConfig.cmake
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/cmake/bam_2_airsim_pkgConfig-version.cmake
+-- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/package.xml

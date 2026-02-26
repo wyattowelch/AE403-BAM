@@ -1,0 +1,84 @@
+[1.016s] Invoking command in 'D:\BAM\AE403-BAM\build\bam_2_airsim_pkg': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE D:\BAM\AE403-BAM\ROS2_ws\visualization_pkgs\bam_2_airsim -DCMAKE_INSTALL_PREFIX=D:\BAM\AE403-BAM\install\bam_2_airsim_pkg -G Visual Studio 17 2022
+[1.172s] -- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+[2.344s] -- The C compiler identification is MSVC 19.38.33145.0
+[3.656s] -- The CXX compiler identification is MSVC 19.38.33145.0
+[4.141s] -- Detecting C compiler ABI info
+[5.219s] -- Detecting C compiler ABI info - done
+[5.281s] -- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+[5.297s] -- Detecting C compile features
+[5.328s] -- Detecting C compile features - done
+[5.500s] -- Detecting CXX compiler ABI info
+[6.500s] -- Detecting CXX compiler ABI info - done
+[6.985s] -- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+[6.985s] -- Detecting CXX compile features
+[6.985s] -- Detecting CXX compile features - done
+[6.985s] -- Found ament_cmake: 2.5.4 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_cmake/cmake)
+[7.875s] -- Found Python3: C:/Users/SirSi/robostack/.pixi/envs/jazzy/python.exe (found version "3.12.11") found components: Interpreter
+[9.672s] -- Found rclcpp: 28.1.9 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rclcpp/cmake)
+[10.906s] -- Found rosidl_generator_c: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_c/cmake)
+[11.188s] -- Found rosidl_generator_cpp: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_cpp/cmake)
+[11.703s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[12.141s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[14.094s] -- Found rmw_implementation_cmake: 7.3.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_implementation_cmake/cmake)
+[14.203s] -- Found rmw_fastrtps_cpp: 8.4.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_fastrtps_cpp/cmake)
+[15.375s] -- Found OpenSSL: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/lib/libcrypto.lib (found version "3.5.0")
+[15.641s] -- Found FastRTPS: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/include (Required is at least version "2.13")
+[15.703s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[17.719s] -- Found geometry_msgs: 5.3.6 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/geometry_msgs/cmake)
+[18.891s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[19.453s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[19.453s] -- Looking for pthread_create in pthreads
+[20.078s] -- Looking for pthread_create in pthreads - not found
+[20.078s] -- Looking for pthread_create in pthread
+[20.828s] -- Looking for pthread_create in pthread - not found
+[20.828s] -- Found Threads: TRUE
+[21.000s] -- Found ament_lint_auto: 0.17.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_lint_auto/cmake)
+[21.313s] -- Processing Bam2Airsim Node...
+[21.344s] -- Processing TestPosePub Node...
+[21.391s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[21.391s] -- Configured cppcheck include dirs: 
+[21.391s] -- Configured cppcheck exclude dirs and/or files: 
+[21.406s] -- Added test 'flake8' to check Python code syntax and style conventions
+[21.406s] -- Configured 'flake8' exclude dirs and/or files: 
+[21.469s] -- Added test 'lint_cmake' to check CMake code style
+[21.469s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[21.531s] -- Added test 'uncrustify' to check C / C++ code style
+[21.531s] -- Configured uncrustify additional arguments: 
+[21.547s] -- Added test 'xmllint' to check XML markup files
+[21.547s] -- Configuring done (20.5s)
+[22.031s] -- Generating done (0.5s)
+[22.110s] -- Build files have been written to: D:/BAM/AE403-BAM/build/bam_2_airsim_pkg
+[22.141s] Invoked command in 'D:\BAM\AE403-BAM\build\bam_2_airsim_pkg' returned '0': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE D:\BAM\AE403-BAM\ROS2_ws\visualization_pkgs\bam_2_airsim -DCMAKE_INSTALL_PREFIX=D:\BAM\AE403-BAM\install\bam_2_airsim_pkg -G Visual Studio 17 2022
+[22.141s] Invoking command in 'D:\BAM\AE403-BAM\build\bam_2_airsim_pkg': CL=/MP PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --build D:\BAM\AE403-BAM\build\bam_2_airsim_pkg --config Release
+[22.391s] MSBuild version 17.14.40+3e7442088 for .NET Framework
+[22.422s] 
+[22.766s]   1>Checking Build System
+[22.969s]   Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/visualization_pkgs/bam_2_airsim/Bam2Airsim/CMakeLists.txt
+[23.125s]   Bam2Airsim.cpp
+[23.125s]   BamAirsimNode.cpp
+[32.813s] LINK : warning LNK4044: unrecognized option '/Wl,-defaultlib:C:/Users/SirSi/robostack/.pixi/envs/jazzy/lib/clang/19/lib/windows/clang_rt.builtins-x86_64.lib'; ignored [D:\BAM\AE403-BAM\build\bam_2_airsim_pkg\Bam2Airsim\Bam2Airsim.vcxproj]
+[32.969s]   Bam2Airsim.vcxproj -> D:\BAM\AE403-BAM\build\bam_2_airsim_pkg\Bam2Airsim\Release\Bam2Airsim.exe
+[33.063s]   Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/visualization_pkgs/bam_2_airsim/TestPosePub/CMakeLists.txt
+[33.141s]   BamTestPubNode.cpp
+[33.141s]   TestPosePub.cpp
+[37.219s] LINK : warning LNK4044: unrecognized option '/Wl,-defaultlib:C:/Users/SirSi/robostack/.pixi/envs/jazzy/lib/clang/19/lib/windows/clang_rt.builtins-x86_64.lib'; ignored [D:\BAM\AE403-BAM\build\bam_2_airsim_pkg\TestPosePub\TestPosePub.vcxproj]
+[37.297s]   TestPosePub.vcxproj -> D:\BAM\AE403-BAM\build\bam_2_airsim_pkg\TestPosePub\Release\TestPosePub.exe
+[37.344s]   Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/visualization_pkgs/bam_2_airsim/CMakeLists.txt
+[37.438s] Invoked command in 'D:\BAM\AE403-BAM\build\bam_2_airsim_pkg' returned '0': CL=/MP PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --build D:\BAM\AE403-BAM\build\bam_2_airsim_pkg --config Release
+[37.453s] Invoking command in 'D:\BAM\AE403-BAM\build\bam_2_airsim_pkg': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --install D:\BAM\AE403-BAM\build\bam_2_airsim_pkg --config Release
+[37.594s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/lib/bam_2_airsim_pkg/Bam2Airsim.exe
+[37.656s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/lib/bam_2_airsim_pkg/TestPosePub.exe
+[37.656s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/ament_index/resource_index/package_run_dependencies/bam_2_airsim_pkg
+[37.656s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/ament_index/resource_index/parent_prefix_path/bam_2_airsim_pkg
+[37.656s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/environment/ament_prefix_path.bat
+[37.656s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/environment/ament_prefix_path.dsv
+[37.656s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/environment/path.bat
+[37.656s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/environment/path.dsv
+[37.703s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/local_setup.bat
+[37.719s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/local_setup.dsv
+[37.735s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/package.dsv
+[37.735s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/ament_index/resource_index/packages/bam_2_airsim_pkg
+[37.750s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/cmake/bam_2_airsim_pkgConfig.cmake
+[37.750s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/cmake/bam_2_airsim_pkgConfig-version.cmake
+[37.750s] -- Installing: D:/BAM/AE403-BAM/install/bam_2_airsim_pkg/share/bam_2_airsim_pkg/package.xml
+[37.766s] Invoked command in 'D:\BAM\AE403-BAM\build\bam_2_airsim_pkg' returned '0': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --install D:\BAM\AE403-BAM\build\bam_2_airsim_pkg --config Release

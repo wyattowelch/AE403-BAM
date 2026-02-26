@@ -1,0 +1,33 @@
+running egg_info
+creating ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info
+writing ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\PKG-INFO
+writing dependency_links to ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\dependency_links.txt
+writing entry points to ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\entry_points.txt
+writing requirements to ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\requires.txt
+writing top-level names to ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\top_level.txt
+writing manifest file '..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\SOURCES.txt'
+reading manifest file '..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\SOURCES.txt'
+running build
+running build_py
+creating D:\BAM\AE403-BAM\build\phase_space_warping_py\build\lib\phase_space_warping_py
+copying phase_space_warping_py\phase_space_warping.py -> D:\BAM\AE403-BAM\build\phase_space_warping_py\build\lib\phase_space_warping_py
+copying phase_space_warping_py\__init__.py -> D:\BAM\AE403-BAM\build\phase_space_warping_py\build\lib\phase_space_warping_py
+running install
+running install_lib
+creating D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages\phase_space_warping_py
+copying D:\BAM\AE403-BAM\build\phase_space_warping_py\build\lib\phase_space_warping_py\phase_space_warping.py -> D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages\phase_space_warping_py
+copying D:\BAM\AE403-BAM\build\phase_space_warping_py\build\lib\phase_space_warping_py\__init__.py -> D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages\phase_space_warping_py
+byte-compiling D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages\phase_space_warping_py\phase_space_warping.py to phase_space_warping.cpython-312.pyc
+byte-compiling D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages\phase_space_warping_py\__init__.py to __init__.cpython-312.pyc
+running install_data
+creating D:\BAM\AE403-BAM\install\phase_space_warping_py\share\ament_index\resource_index\packages
+copying resource\phase_space_warping_py -> D:\BAM\AE403-BAM\install\phase_space_warping_py\share\ament_index\resource_index\packages
+copying package.xml -> D:\BAM\AE403-BAM\install\phase_space_warping_py\share\phase_space_warping_py
+running install_egg_info
+Copying ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info to D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages\phase_space_warping_py-0.1.0-py3.12.egg-info
+running install_scripts
+Installing psw_node-script.py script to D:\BAM\AE403-BAM\install\phase_space_warping_py\lib\phase_space_warping_py
+Installing psw_node.exe script to D:\BAM\AE403-BAM\install\phase_space_warping_py\lib\phase_space_warping_py
+writing list of installed files to 'D:\BAM\AE403-BAM\build\phase_space_warping_py\install.log'

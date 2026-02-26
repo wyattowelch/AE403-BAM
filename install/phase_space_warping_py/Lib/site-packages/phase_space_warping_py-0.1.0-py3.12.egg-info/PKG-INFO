@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: phase_space_warping_py
+Version: 0.1.0
+Summary: Phase Space Warping (PSW) analysis for eVTOL flight dynamics
+Maintainer: Newton Campbell
+Maintainer-email: newton.h.campbell@nasa.gov
+License: Apache-2.0
+License-File: LICENSE
+Requires-Dist: setuptools
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+Provides-Extra: test
+Requires-Dist: pytest; extra == "test"
+Dynamic: license
+Dynamic: license-file
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: summary

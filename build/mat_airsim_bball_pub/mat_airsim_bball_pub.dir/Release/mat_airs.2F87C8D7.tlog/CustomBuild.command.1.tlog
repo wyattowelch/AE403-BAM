@@ -1,0 +1,10 @@
+^D:\BAM\AE403-BAM\ROS2_WS\S_FUNCTION_PKGS\PUBLISHERS\MAT_AIRSIM_BBALL_PUB\CMAKELISTS.TXT
+setlocal
+C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.exe -SD:/BAM/AE403-BAM/ROS2_ws/s_function_pkgs/publishers/mat_airsim_bball_pub -BD:/BAM/AE403-BAM/build/mat_airsim_bball_pub --check-stamp-file D:/BAM/AE403-BAM/build/mat_airsim_bball_pub/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

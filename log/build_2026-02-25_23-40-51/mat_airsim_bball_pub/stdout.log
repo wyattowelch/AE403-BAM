@@ -1,0 +1,68 @@
+-- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+-- The C compiler identification is MSVC 19.38.33145.0
+-- The CXX compiler identification is MSVC 19.38.33145.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Source Directory (SRC_DIR): D:/BAM/AE403-BAM/ROS2_ws/s_function_pkgs/publishers/mat_airsim_bball_pub
+-- Workspace Root Directory (WS_ROOT_DIR): D:/BAM/AE403-BAM/ROS2_ws
+-- Found ament_cmake: 2.5.4 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_cmake/cmake)
+-- Found Python3: C:/Users/SirSi/robostack/.pixi/envs/jazzy/python.exe (found version "3.12.11") found components: Interpreter
+-- Found ros_msg_iface: 0.0.0 (D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/cmake)
+-- Found rosidl_generator_c: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 7.3.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/lib/libcrypto.lib (found version "3.5.0")
+-- Found FastRTPS: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/include (Required is at least version "2.13")
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found Matlab: C:/Program Files/MATLAB (found version "25.1.0.2943329") found components: SIMULINK
+-- Matlab root directory found: C:/Program Files/MATLAB.
+-- Found ament_lint_auto: 0.17.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (6.0s)
+-- Generating done (0.2s)
+-- Build files have been written to: D:/BAM/AE403-BAM/build/mat_airsim_bball_pub
+MSBuild version 17.14.40+3e7442088 for .NET Framework
+
+  1>Checking Build System
+  Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/s_function_pkgs/publishers/mat_airsim_bball_pub/CMakeLists.txt
+  mat_airsim_bball_pub.cpp
+cl : command line  warning D9025: overriding '/W1' with '/w' [D:\BAM\AE403-BAM\build\mat_airsim_bball_pub\mat_airsim_bball_pub.vcxproj]
+  c_mexapi_version.c
+LINK : warning LNK4044: unrecognized option '/Wl,-defaultlib:C:/Users/SirSi/robostack/.pixi/envs/jazzy/lib/clang/19/lib/windows/clang_rt.builtins-x86_64.lib'; ignored [D:\BAM\AE403-BAM\build\mat_airsim_bball_pub\mat_airsim_bball_pub.vcxproj]
+     Creating library D:/BAM/AE403-BAM/build/mat_airsim_bball_pub/Release/mat_airsim_bball_pub.lib and object D:/BAM/AE403-BAM/build/mat_airsim_bball_pub/Release/mat_airsim_bball_pub.exp
+  mat_airsim_bball_pub.vcxproj -> D:\BAM\AE403-BAM\build\mat_airsim_bball_pub\Release\mat_airsim_bball_pub.mexw64
+  Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/s_function_pkgs/publishers/mat_airsim_bball_pub/CMakeLists.txt
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/lib/mat_airsim_bball_pub/mat_airsim_bball_pub.lib
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/lib/mat_airsim_bball_pub/mat_airsim_bball_pub.mexw64
+-- Installing: D:/BAM/AE403-BAM/ROS2_ws/bin/mat_airsim_bball_pub.lib
+-- Installing: D:/BAM/AE403-BAM/ROS2_ws/bin/mat_airsim_bball_pub.mexw64
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/ament_index/resource_index/package_run_dependencies/mat_airsim_bball_pub
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/ament_index/resource_index/parent_prefix_path/mat_airsim_bball_pub
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/environment/ament_prefix_path.bat
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/environment/ament_prefix_path.dsv
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/environment/path.bat
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/environment/path.dsv
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/local_setup.bat
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/local_setup.dsv
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/package.dsv
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/ament_index/resource_index/packages/mat_airsim_bball_pub
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/cmake/mat_airsim_bball_pubConfig.cmake
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/cmake/mat_airsim_bball_pubConfig-version.cmake
+-- Installing: D:/BAM/AE403-BAM/install/mat_airsim_bball_pub/share/mat_airsim_bball_pub/package.xml

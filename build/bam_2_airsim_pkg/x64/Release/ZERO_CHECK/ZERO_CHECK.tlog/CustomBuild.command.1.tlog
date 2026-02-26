@@ -1,0 +1,10 @@
+^D:\BAM\AE403-BAM\BUILD\BAM_2_AIRSIM_PKG\CMAKEFILES\5F6FD4A99FC7A2FA2696EB0C114983AF\GENERATE.STAMP.RULE
+setlocal
+C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.exe -SD:/BAM/AE403-BAM/ROS2_ws/visualization_pkgs/bam_2_airsim -BD:/BAM/AE403-BAM/build/bam_2_airsim_pkg --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/bam_2_airsim_pkg.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

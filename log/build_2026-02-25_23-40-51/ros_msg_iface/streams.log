@@ -1,0 +1,69 @@
+[0.406s] Invoking command in 'D:\BAM\AE403-BAM\build\ros_msg_iface': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE D:\BAM\AE403-BAM\ROS2_ws\interfaces_pkgs\ros_msg_iface -DCMAKE_INSTALL_PREFIX=D:\BAM\AE403-BAM\install\ros_msg_iface -G Visual Studio 17 2022
+[1.328s] -- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+[2.656s] -- The C compiler identification is MSVC 19.38.33145.0
+[3.984s] -- The CXX compiler identification is MSVC 19.38.33145.0
+[4.453s] -- Detecting C compiler ABI info
+[5.547s] -- Detecting C compiler ABI info - done
+[5.625s] -- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+[5.625s] -- Detecting C compile features
+[5.640s] -- Detecting C compile features - done
+[5.812s] -- Detecting CXX compiler ABI info
+[6.828s] -- Detecting CXX compiler ABI info - done
+[7.297s] -- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+[7.297s] -- Detecting CXX compile features
+[7.297s] -- Detecting CXX compile features - done
+[7.297s] -- Found ament_cmake: 2.5.4 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_cmake/cmake)
+[8.187s] -- Found Python3: C:/Users/SirSi/robostack/.pixi/envs/jazzy/python.exe (found version "3.12.11") found components: Interpreter
+[9.984s] -- Found rclcpp: 28.1.9 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rclcpp/cmake)
+[11.218s] -- Found rosidl_generator_c: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_c/cmake)
+[11.500s] -- Found rosidl_generator_cpp: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_cpp/cmake)
+[12.015s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[12.453s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[14.406s] -- Found rmw_implementation_cmake: 7.3.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_implementation_cmake/cmake)
+[14.515s] -- Found rmw_fastrtps_cpp: 8.4.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_fastrtps_cpp/cmake)
+[15.687s] -- Found OpenSSL: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/lib/libcrypto.lib (found version "3.5.0")
+[15.953s] -- Found FastRTPS: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/include (Required is at least version "2.13")
+[16.031s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[18.031s] -- Found geometry_msgs: 5.3.6 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/geometry_msgs/cmake)
+[19.078s] -- Source Directory (SRC_DIR): D:/BAM/AE403-BAM/ROS2_ws/interfaces_pkgs/ros_msg_iface
+[19.078s] -- Workspace Root Directory (WS_ROOT_DIR): D:/BAM/AE403-BAM/ROS2_ws
+[19.593s] -- Configuring done (19.0s)
+[20.140s] -- Generating done (0.5s)
+[20.187s] -- Build files have been written to: D:/BAM/AE403-BAM/build/ros_msg_iface
+[20.203s] Invoked command in 'D:\BAM\AE403-BAM\build\ros_msg_iface' returned '0': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE D:\BAM\AE403-BAM\ROS2_ws\interfaces_pkgs\ros_msg_iface -DCMAKE_INSTALL_PREFIX=D:\BAM\AE403-BAM\install\ros_msg_iface -G Visual Studio 17 2022
+[20.203s] Invoking command in 'D:\BAM\AE403-BAM\build\ros_msg_iface': CL=/MP PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --build D:\BAM\AE403-BAM\build\ros_msg_iface --config Release
+[20.390s] MSBuild version 17.14.40+3e7442088 for .NET Framework
+[20.422s] 
+[20.750s]   1>Checking Build System
+[20.968s]   Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/interfaces_pkgs/ros_msg_iface/CMakeLists.txt
+[21.156s]   ros_msg_iface.cpp
+[26.078s]   ros_msg_iface.vcxproj -> D:\BAM\AE403-BAM\build\ros_msg_iface\Release\ros_msg_iface.lib
+[26.187s]   Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/interfaces_pkgs/ros_msg_iface/CMakeLists.txt
+[26.390s] Invoked command in 'D:\BAM\AE403-BAM\build\ros_msg_iface' returned '0': CL=/MP PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --build D:\BAM\AE403-BAM\build\ros_msg_iface --config Release
+[26.437s] Invoking command in 'D:\BAM\AE403-BAM\build\ros_msg_iface': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --install D:\BAM\AE403-BAM\build\ros_msg_iface --config Release
+[26.609s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/include
+[26.609s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/include/ros_msg_iface
+[26.625s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/include/ros_msg_iface/ros_msg_iface.hpp
+[26.640s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/lib/ros_msg_iface.lib
+[26.656s] -- Installing: D:/BAM/AE403-BAM/ROS2_ws/lib/win64/ros_msg_iface.lib
+[26.672s] -- Up-to-date: D:/BAM/AE403-BAM/ROS2_ws/include
+[26.672s] -- Up-to-date: D:/BAM/AE403-BAM/ROS2_ws/include/ros_msg_iface
+[26.672s] -- Up-to-date: D:/BAM/AE403-BAM/ROS2_ws/include/ros_msg_iface/ros_msg_iface.hpp
+[26.672s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/package.xml
+[26.687s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ament_index/resource_index/package_run_dependencies/ros_msg_iface
+[26.703s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ament_index/resource_index/parent_prefix_path/ros_msg_iface
+[26.703s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/environment/ament_prefix_path.bat
+[26.718s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/environment/ament_prefix_path.dsv
+[26.718s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/environment/path.bat
+[26.734s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/environment/path.dsv
+[26.781s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/local_setup.bat
+[26.797s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/local_setup.dsv
+[26.812s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/package.dsv
+[26.812s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ament_index/resource_index/packages/ros_msg_iface
+[26.812s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/cmake/ament_cmake_export_dependencies-extras.cmake
+[26.812s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/cmake/ament_cmake_export_include_directories-extras.cmake
+[26.812s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/cmake/ament_cmake_export_libraries-extras.cmake
+[26.828s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/cmake/ros_msg_ifaceConfig.cmake
+[26.843s] -- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/cmake/ros_msg_ifaceConfig-version.cmake
+[26.843s] -- Up-to-date: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/package.xml
+[26.859s] Invoked command in 'D:\BAM\AE403-BAM\build\ros_msg_iface' returned '0': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --install D:\BAM\AE403-BAM\build\ros_msg_iface --config Release

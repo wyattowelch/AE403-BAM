@@ -1,0 +1,2 @@
+[console_scripts]
+psw_node = phase_space_warping_py.phase_space_warping:main

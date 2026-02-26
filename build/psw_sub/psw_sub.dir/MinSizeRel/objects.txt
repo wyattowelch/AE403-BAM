@@ -1,0 +1,2 @@
+D:/BAM/AE403-BAM/build/psw_sub/psw_sub.dir/MinSizeRel/psw_sub.obj
+D:/BAM/AE403-BAM/build/psw_sub/psw_sub.dir/MinSizeRel/c_mexapi_version.obj

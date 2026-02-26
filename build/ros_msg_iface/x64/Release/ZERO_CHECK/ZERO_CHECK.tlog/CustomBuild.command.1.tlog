@@ -1,0 +1,10 @@
+^D:\BAM\AE403-BAM\BUILD\ROS_MSG_IFACE\CMAKEFILES\9A2A758806A7D270F84A81918BC33EA4\GENERATE.STAMP.RULE
+setlocal
+C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.exe -SD:/BAM/AE403-BAM/ROS2_ws/interfaces_pkgs/ros_msg_iface -BD:/BAM/AE403-BAM/build/ros_msg_iface --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/BAM/AE403-BAM/build/ros_msg_iface/ros_msg_iface.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

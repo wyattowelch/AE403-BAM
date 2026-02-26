@@ -1,0 +1,74 @@
+[0.968s] Invoking command in 'D:\BAM\AE403-BAM\build\psw_sub': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE D:\BAM\AE403-BAM\ROS2_ws\s_function_pkgs\subscribers\psw_sub -DCMAKE_INSTALL_PREFIX=D:\BAM\AE403-BAM\install\psw_sub -G Visual Studio 17 2022
+[1.125s] -- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+[2.281s] -- The C compiler identification is MSVC 19.38.33145.0
+[3.609s] -- The CXX compiler identification is MSVC 19.38.33145.0
+[4.078s] -- Detecting C compiler ABI info
+[5.156s] -- Detecting C compiler ABI info - done
+[5.218s] -- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+[5.234s] -- Detecting C compile features
+[5.265s] -- Detecting C compile features - done
+[5.437s] -- Detecting CXX compiler ABI info
+[6.437s] -- Detecting CXX compiler ABI info - done
+[6.922s] -- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+[6.922s] -- Detecting CXX compile features
+[6.922s] -- Detecting CXX compile features - done
+[6.922s] -- Source Directory (SRC_DIR): D:/BAM/AE403-BAM/ROS2_ws/s_function_pkgs/subscribers/psw_sub
+[6.922s] -- Workspace Root Directory (WS_ROOT_DIR): D:/BAM/AE403-BAM/ROS2_ws
+[6.922s] -- Found ament_cmake: 2.5.4 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_cmake/cmake)
+[7.812s] -- Found Python3: C:/Users/SirSi/robostack/.pixi/envs/jazzy/python.exe (found version "3.12.11") found components: Interpreter
+[9.609s] -- Found rclcpp: 28.1.9 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rclcpp/cmake)
+[10.843s] -- Found rosidl_generator_c: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_c/cmake)
+[11.125s] -- Found rosidl_generator_cpp: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_cpp/cmake)
+[11.640s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[12.078s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[14.031s] -- Found rmw_implementation_cmake: 7.3.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_implementation_cmake/cmake)
+[14.140s] -- Found rmw_fastrtps_cpp: 8.4.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_fastrtps_cpp/cmake)
+[15.312s] -- Found OpenSSL: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/lib/libcrypto.lib (found version "3.5.0")
+[15.578s] -- Found FastRTPS: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/include (Required is at least version "2.13")
+[15.656s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[17.656s] -- Found std_msgs: 5.3.6 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/std_msgs/cmake)
+[18.390s] -- Found Matlab: C:/Program Files/MATLAB (found version "25.1.0.2943329") found components: SIMULINK
+[18.390s] -- Matlab root directory found: C:/Program Files/MATLAB.
+[18.422s] -- Found ament_lint_auto: 0.17.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_lint_auto/cmake)
+[19.078s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[19.078s] -- Configured cppcheck include dirs: 
+[19.078s] -- Configured cppcheck exclude dirs and/or files: 
+[19.156s] -- Added test 'lint_cmake' to check CMake code style
+[19.250s] -- Added test 'uncrustify' to check C / C++ code style
+[19.250s] -- Configured uncrustify additional arguments: 
+[19.328s] -- Added test 'xmllint' to check XML markup files
+[19.406s] -- Configuring done (18.4s)
+[19.734s] -- Generating done (0.3s)
+[19.781s] -- Build files have been written to: D:/BAM/AE403-BAM/build/psw_sub
+[19.797s] Invoked command in 'D:\BAM\AE403-BAM\build\psw_sub' returned '0': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE D:\BAM\AE403-BAM\ROS2_ws\s_function_pkgs\subscribers\psw_sub -DCMAKE_INSTALL_PREFIX=D:\BAM\AE403-BAM\install\psw_sub -G Visual Studio 17 2022
+[19.797s] Invoking command in 'D:\BAM\AE403-BAM\build\psw_sub': CL=/MP PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --build D:\BAM\AE403-BAM\build\psw_sub --config Release
+[19.922s] MSBuild version 17.14.40+3e7442088 for .NET Framework
+[19.953s] 
+[20.250s]   psw_sub.cpp
+[27.250s] cl : command line  warning D9025: overriding '/W1' with '/w' [D:\BAM\AE403-BAM\build\psw_sub\psw_sub.vcxproj]
+[27.250s]   c_mexapi_version.c
+[27.297s]   Auto build dll exports
+[27.500s] LINK : warning LNK4044: unrecognized option '/Wl,-defaultlib:C:/Users/SirSi/robostack/.pixi/envs/jazzy/lib/clang/19/lib/windows/clang_rt.builtins-x86_64.lib'; ignored [D:\BAM\AE403-BAM\build\psw_sub\psw_sub.vcxproj]
+[27.515s]      Creating library D:/BAM/AE403-BAM/build/psw_sub/Release/psw_sub.lib and object D:/BAM/AE403-BAM/build/psw_sub/Release/psw_sub.exp
+[27.609s]   psw_sub.vcxproj -> D:\BAM\AE403-BAM\build\psw_sub\Release\psw_sub.mexw64
+[27.703s] Invoked command in 'D:\BAM\AE403-BAM\build\psw_sub' returned '0': CL=/MP PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --build D:\BAM\AE403-BAM\build\psw_sub --config Release
+[27.703s] Invoking command in 'D:\BAM\AE403-BAM\build\psw_sub': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --install D:\BAM\AE403-BAM\build\psw_sub --config Release
+[27.781s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/lib/psw_sub/psw_sub.lib
+[27.859s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/lib/psw_sub/psw_sub.mexw64
+[27.875s] -- Installing: D:/BAM/AE403-BAM/ROS2_ws/bin/psw_sub.lib
+[27.922s] -- Installing: D:/BAM/AE403-BAM/ROS2_ws/bin/psw_sub.mexw64
+[27.922s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/psw_sub/package.xml
+[27.937s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/ament_index/resource_index/package_run_dependencies/psw_sub
+[27.937s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/ament_index/resource_index/parent_prefix_path/psw_sub
+[27.937s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/psw_sub/environment/ament_prefix_path.bat
+[27.953s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/psw_sub/environment/ament_prefix_path.dsv
+[27.953s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/psw_sub/environment/path.bat
+[27.953s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/psw_sub/environment/path.dsv
+[28.000s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/psw_sub/local_setup.bat
+[28.015s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/psw_sub/local_setup.dsv
+[28.015s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/psw_sub/package.dsv
+[28.015s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/ament_index/resource_index/packages/psw_sub
+[28.047s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/psw_sub/cmake/psw_subConfig.cmake
+[28.062s] -- Installing: D:/BAM/AE403-BAM/install/psw_sub/share/psw_sub/cmake/psw_subConfig-version.cmake
+[28.062s] -- Up-to-date: D:/BAM/AE403-BAM/install/psw_sub/share/psw_sub/package.xml
+[28.062s] Invoked command in 'D:\BAM\AE403-BAM\build\psw_sub' returned '0': PIXI_PROMPT=(robostack:jazzy) C:\Users\SirSi\robostack\.pixi\envs\jazzy\Library\bin\cmake.EXE --install D:\BAM\AE403-BAM\build\psw_sub --config Release

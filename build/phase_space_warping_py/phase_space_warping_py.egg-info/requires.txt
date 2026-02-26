@@ -1,0 +1,6 @@
+setuptools
+scipy
+scikit-learn
+
+[test]
+pytest

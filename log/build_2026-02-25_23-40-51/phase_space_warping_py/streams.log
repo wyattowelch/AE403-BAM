@@ -1,0 +1,35 @@
+[4.641s] Invoking command in 'D:\BAM\AE403-BAM\ROS2_ws\analysis_pkgs\phase_space_warping_py': PIXI_PROMPT=(robostack:jazzy) PYTHONPATH=D:\BAM\AE403-BAM\build\phase_space_warping_py\prefix_override;C:\Users\SirSi\robostack\.pixi\envs\jazzy\Lib\site-packages\colcon_core\task\python\colcon_distutils_commands;D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages;%PYTHONPATH% C:\Users\SirSi\robostack\.pixi\envs\jazzy\python.exe -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ..\..\..\build\phase_space_warping_py build --build-base D:\BAM\AE403-BAM\build\phase_space_warping_py\build install --record D:\BAM\AE403-BAM\build\phase_space_warping_py\install.log --single-version-externally-managed install_data
+[5.406s] running egg_info
+[5.437s] creating ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info
+[5.437s] writing ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\PKG-INFO
+[5.437s] writing dependency_links to ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\dependency_links.txt
+[5.437s] writing entry points to ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\entry_points.txt
+[5.453s] writing requirements to ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\requires.txt
+[5.453s] writing top-level names to ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\top_level.txt
+[5.453s] writing manifest file '..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\SOURCES.txt'
+[5.516s] reading manifest file '..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\SOURCES.txt'
+[5.516s] adding license file 'LICENSE'
+[5.531s] writing manifest file '..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info\SOURCES.txt'
+[5.531s] running build
+[5.531s] running build_py
+[5.531s] creating D:\BAM\AE403-BAM\build\phase_space_warping_py\build\lib\phase_space_warping_py
+[5.531s] copying phase_space_warping_py\phase_space_warping.py -> D:\BAM\AE403-BAM\build\phase_space_warping_py\build\lib\phase_space_warping_py
+[5.547s] copying phase_space_warping_py\__init__.py -> D:\BAM\AE403-BAM\build\phase_space_warping_py\build\lib\phase_space_warping_py
+[5.547s] running install
+[5.547s] running install_lib
+[5.594s] creating D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages\phase_space_warping_py
+[5.594s] copying D:\BAM\AE403-BAM\build\phase_space_warping_py\build\lib\phase_space_warping_py\phase_space_warping.py -> D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages\phase_space_warping_py
+[5.609s] copying D:\BAM\AE403-BAM\build\phase_space_warping_py\build\lib\phase_space_warping_py\__init__.py -> D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages\phase_space_warping_py
+[5.609s] byte-compiling D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages\phase_space_warping_py\phase_space_warping.py to phase_space_warping.cpython-312.pyc
+[5.641s] byte-compiling D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages\phase_space_warping_py\__init__.py to __init__.cpython-312.pyc
+[5.641s] running install_data
+[5.641s] creating D:\BAM\AE403-BAM\install\phase_space_warping_py\share\ament_index\resource_index\packages
+[5.641s] copying resource\phase_space_warping_py -> D:\BAM\AE403-BAM\install\phase_space_warping_py\share\ament_index\resource_index\packages
+[5.641s] copying package.xml -> D:\BAM\AE403-BAM\install\phase_space_warping_py\share\phase_space_warping_py
+[5.641s] running install_egg_info
+[5.687s] Copying ..\..\..\build\phase_space_warping_py\phase_space_warping_py.egg-info to D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages\phase_space_warping_py-0.1.0-py3.12.egg-info
+[5.797s] running install_scripts
+[5.906s] Installing psw_node-script.py script to D:\BAM\AE403-BAM\install\phase_space_warping_py\lib\phase_space_warping_py
+[5.906s] Installing psw_node.exe script to D:\BAM\AE403-BAM\install\phase_space_warping_py\lib\phase_space_warping_py
+[5.922s] writing list of installed files to 'D:\BAM\AE403-BAM\build\phase_space_warping_py\install.log'
+[6.219s] Invoked command in 'D:\BAM\AE403-BAM\ROS2_ws\analysis_pkgs\phase_space_warping_py' returned '0': PIXI_PROMPT=(robostack:jazzy) PYTHONPATH=D:\BAM\AE403-BAM\build\phase_space_warping_py\prefix_override;C:\Users\SirSi\robostack\.pixi\envs\jazzy\Lib\site-packages\colcon_core\task\python\colcon_distutils_commands;D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages;%PYTHONPATH% C:\Users\SirSi\robostack\.pixi\envs\jazzy\python.exe -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ..\..\..\build\phase_space_warping_py build --build-base D:\BAM\AE403-BAM\build\phase_space_warping_py\build install --record D:\BAM\AE403-BAM\build\phase_space_warping_py\install.log --single-version-externally-managed install_data

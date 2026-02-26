@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\BAM\AE403-BAM\ROS2_ws\s_function_pkgs\subscribers\psw_sub\src\psw_sub.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\MATLAB\extern\version\c_mexapi_version.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{85D1621A-13A7-353B-95B3-E381AC754731}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

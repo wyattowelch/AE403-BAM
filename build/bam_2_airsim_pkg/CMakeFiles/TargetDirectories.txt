@@ -1,0 +1,12 @@
+D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/CMakeFiles/uninstall.dir
+D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/CMakeFiles/bam_2_airsim_pkg_uninstall.dir
+D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/CMakeFiles/RUN_TESTS.dir
+D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/CMakeFiles/INSTALL.dir
+D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/CMakeFiles/ALL_BUILD.dir
+D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/CMakeFiles/ZERO_CHECK.dir
+D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/Bam2Airsim/CMakeFiles/Bam2Airsim.dir
+D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/Bam2Airsim/CMakeFiles/RUN_TESTS.dir
+D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/Bam2Airsim/CMakeFiles/INSTALL.dir
+D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/TestPosePub/CMakeFiles/TestPosePub.dir
+D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/TestPosePub/CMakeFiles/RUN_TESTS.dir
+D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/TestPosePub/CMakeFiles/INSTALL.dir

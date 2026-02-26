@@ -1,0 +1,6 @@
+D:/BAM/AE403-BAM/build/psw_sub/CMakeFiles/uninstall.dir
+D:/BAM/AE403-BAM/build/psw_sub/CMakeFiles/psw_sub_uninstall.dir
+D:/BAM/AE403-BAM/build/psw_sub/CMakeFiles/psw_sub.dir
+D:/BAM/AE403-BAM/build/psw_sub/CMakeFiles/RUN_TESTS.dir
+D:/BAM/AE403-BAM/build/psw_sub/CMakeFiles/INSTALL.dir
+D:/BAM/AE403-BAM/build/psw_sub/CMakeFiles/ALL_BUILD.dir

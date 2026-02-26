@@ -1,0 +1,63 @@
+-- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+-- The C compiler identification is MSVC 19.38.33145.0
+-- The CXX compiler identification is MSVC 19.38.33145.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/ament_cmake/cmake)
+-- Found Python3: C:/Users/SirSi/robostack/.pixi/envs/jazzy/python.exe (found version "3.12.11") found components: Interpreter
+-- Found rclcpp: 28.1.9 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.5 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 7.3.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.2 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/lib/libcrypto.lib (found version "3.5.0")
+-- Found FastRTPS: C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/include (Required is at least version "2.13")
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found geometry_msgs: 5.3.6 (C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/geometry_msgs/cmake)
+-- Source Directory (SRC_DIR): D:/BAM/AE403-BAM/ROS2_ws/interfaces_pkgs/ros_msg_iface
+-- Workspace Root Directory (WS_ROOT_DIR): D:/BAM/AE403-BAM/ROS2_ws
+-- Configuring done (19.0s)
+-- Generating done (0.5s)
+-- Build files have been written to: D:/BAM/AE403-BAM/build/ros_msg_iface
+MSBuild version 17.14.40+3e7442088 for .NET Framework
+
+  1>Checking Build System
+  Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/interfaces_pkgs/ros_msg_iface/CMakeLists.txt
+  ros_msg_iface.cpp
+  ros_msg_iface.vcxproj -> D:\BAM\AE403-BAM\build\ros_msg_iface\Release\ros_msg_iface.lib
+  Building Custom Rule D:/BAM/AE403-BAM/ROS2_ws/interfaces_pkgs/ros_msg_iface/CMakeLists.txt
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/include
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/include/ros_msg_iface
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/include/ros_msg_iface/ros_msg_iface.hpp
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/lib/ros_msg_iface.lib
+-- Installing: D:/BAM/AE403-BAM/ROS2_ws/lib/win64/ros_msg_iface.lib
+-- Up-to-date: D:/BAM/AE403-BAM/ROS2_ws/include
+-- Up-to-date: D:/BAM/AE403-BAM/ROS2_ws/include/ros_msg_iface
+-- Up-to-date: D:/BAM/AE403-BAM/ROS2_ws/include/ros_msg_iface/ros_msg_iface.hpp
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/package.xml
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ament_index/resource_index/package_run_dependencies/ros_msg_iface
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ament_index/resource_index/parent_prefix_path/ros_msg_iface
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/environment/ament_prefix_path.bat
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/environment/ament_prefix_path.dsv
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/environment/path.bat
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/environment/path.dsv
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/local_setup.bat
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/local_setup.dsv
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/package.dsv
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ament_index/resource_index/packages/ros_msg_iface
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/cmake/ros_msg_ifaceConfig.cmake
+-- Installing: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/cmake/ros_msg_ifaceConfig-version.cmake
+-- Up-to-date: D:/BAM/AE403-BAM/install/ros_msg_iface/share/ros_msg_iface/package.xml

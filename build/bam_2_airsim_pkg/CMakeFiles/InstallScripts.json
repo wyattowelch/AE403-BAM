@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/cmake_install.cmake",
+		"D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/Bam2Airsim/cmake_install.cmake",
+		"D:/BAM/AE403-BAM/build/bam_2_airsim_pkg/TestPosePub/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

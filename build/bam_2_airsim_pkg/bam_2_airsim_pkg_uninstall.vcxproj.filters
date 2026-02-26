@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\BAM\AE403-BAM\build\bam_2_airsim_pkg\CMakeFiles\5f6fd4a99fc7a2fa2696eb0c114983af\bam_2_airsim_pkg_uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\BAM\AE403-BAM\ROS2_ws\visualization_pkgs\bam_2_airsim\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\BAM\AE403-BAM\build\bam_2_airsim_pkg\CMakeFiles\bam_2_airsim_pkg_uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{85C51804-8433-3D66-A5E8-D987BF765116}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../../build/bam_launcher/bam_launcher.egg-info/PKG-INFO
+../../../build/bam_launcher/bam_launcher.egg-info/SOURCES.txt
+../../../build/bam_launcher/bam_launcher.egg-info/dependency_links.txt
+../../../build/bam_launcher/bam_launcher.egg-info/requires.txt
+../../../build/bam_launcher/bam_launcher.egg-info/top_level.txt
+../../../build/bam_launcher/bam_launcher.egg-info/zip-safe
+bam_launcher/__init__.py
+launch/bam_launch.py
+resource/bam_launcher
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

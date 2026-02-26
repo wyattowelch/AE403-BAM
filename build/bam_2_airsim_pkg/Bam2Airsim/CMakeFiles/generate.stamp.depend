@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake
+C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/geometry_msgs/cmake/geometry_msgsConfig.cmake
+C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rclcpp/cmake/rclcppConfig-version.cmake
+C:/Users/SirSi/robostack/.pixi/envs/jazzy/Library/share/rclcpp/cmake/rclcppConfig.cmake
+D:/BAM/AE403-BAM/ROS2_ws/visualization_pkgs/bam_2_airsim/Bam2Airsim/CMakeLists.txt

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\BAM\AE403-BAM\build\ros_msg_iface\CMakeFiles\9a2a758806a7d270f84a81918bc33ea4\ros_msg_iface_uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\BAM\AE403-BAM\ROS2_ws\interfaces_pkgs\ros_msg_iface\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\BAM\AE403-BAM\build\ros_msg_iface\CMakeFiles\ros_msg_iface_uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{34731659-3690-332D-9C45-5D1826F0D193}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

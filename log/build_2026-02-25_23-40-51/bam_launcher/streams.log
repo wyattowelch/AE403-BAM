@@ -1,0 +1,30 @@
+[1.734s] Invoking command in 'D:\BAM\AE403-BAM\ROS2_ws\launch_pkgs\bam_launcher': AMENT_PREFIX_PATH=D:\BAM\AE403-BAM\install\phase_space_warping_py;D:\BAM\AE403-BAM\install\drone_plotter_py;%AMENT_PREFIX_PATH% PIXI_PROMPT=(robostack:jazzy) PYTHONPATH=D:\BAM\AE403-BAM\build\bam_launcher\prefix_override;C:\Users\SirSi\robostack\.pixi\envs\jazzy\Lib\site-packages\colcon_core\task\python\colcon_distutils_commands;D:\BAM\AE403-BAM\install\bam_launcher\Lib\site-packages;D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages;D:\BAM\AE403-BAM\install\drone_plotter_py\Lib\site-packages;%PYTHONPATH% C:\Users\SirSi\robostack\.pixi\envs\jazzy\python.exe -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ..\..\..\build\bam_launcher build --build-base D:\BAM\AE403-BAM\build\bam_launcher\build install --record D:\BAM\AE403-BAM\build\bam_launcher\install.log --single-version-externally-managed install_data
+[2.281s] running egg_info
+[2.312s] creating ..\..\..\build\bam_launcher\bam_launcher.egg-info
+[2.312s] writing ..\..\..\build\bam_launcher\bam_launcher.egg-info\PKG-INFO
+[2.312s] writing dependency_links to ..\..\..\build\bam_launcher\bam_launcher.egg-info\dependency_links.txt
+[2.312s] writing requirements to ..\..\..\build\bam_launcher\bam_launcher.egg-info\requires.txt
+[2.312s] writing top-level names to ..\..\..\build\bam_launcher\bam_launcher.egg-info\top_level.txt
+[2.312s] writing manifest file '..\..\..\build\bam_launcher\bam_launcher.egg-info\SOURCES.txt'
+[2.391s] reading manifest file '..\..\..\build\bam_launcher\bam_launcher.egg-info\SOURCES.txt'
+[2.391s] writing manifest file '..\..\..\build\bam_launcher\bam_launcher.egg-info\SOURCES.txt'
+[2.391s] running build
+[2.391s] running build_py
+[2.391s] creating D:\BAM\AE403-BAM\build\bam_launcher\build\lib\bam_launcher
+[2.391s] copying bam_launcher\__init__.py -> D:\BAM\AE403-BAM\build\bam_launcher\build\lib\bam_launcher
+[2.391s] running install
+[2.391s] running install_lib
+[2.422s] creating D:\BAM\AE403-BAM\install\bam_launcher\Lib\site-packages\bam_launcher
+[2.422s] copying D:\BAM\AE403-BAM\build\bam_launcher\build\lib\bam_launcher\__init__.py -> D:\BAM\AE403-BAM\install\bam_launcher\Lib\site-packages\bam_launcher
+[2.422s] byte-compiling D:\BAM\AE403-BAM\install\bam_launcher\Lib\site-packages\bam_launcher\__init__.py to __init__.cpython-312.pyc
+[2.422s] running install_data
+[2.422s] creating D:\BAM\AE403-BAM\install\bam_launcher\share\ament_index\resource_index\packages
+[2.437s] copying resource\bam_launcher -> D:\BAM\AE403-BAM\install\bam_launcher\share\ament_index\resource_index\packages
+[2.437s] copying package.xml -> D:\BAM\AE403-BAM\install\bam_launcher\share\bam_launcher
+[2.437s] creating D:\BAM\AE403-BAM\install\bam_launcher\share\bam_launcher\launch
+[2.437s] copying launch\bam_launch.py -> D:\BAM\AE403-BAM\install\bam_launcher\share\bam_launcher\launch
+[2.453s] running install_egg_info
+[2.484s] Copying ..\..\..\build\bam_launcher\bam_launcher.egg-info to D:\BAM\AE403-BAM\install\bam_launcher\Lib\site-packages\bam_launcher-0.0.1-py3.12.egg-info
+[2.547s] running install_scripts
+[2.625s] writing list of installed files to 'D:\BAM\AE403-BAM\build\bam_launcher\install.log'
+[2.641s] Invoked command in 'D:\BAM\AE403-BAM\ROS2_ws\launch_pkgs\bam_launcher' returned '0': AMENT_PREFIX_PATH=D:\BAM\AE403-BAM\install\phase_space_warping_py;D:\BAM\AE403-BAM\install\drone_plotter_py;%AMENT_PREFIX_PATH% PIXI_PROMPT=(robostack:jazzy) PYTHONPATH=D:\BAM\AE403-BAM\build\bam_launcher\prefix_override;C:\Users\SirSi\robostack\.pixi\envs\jazzy\Lib\site-packages\colcon_core\task\python\colcon_distutils_commands;D:\BAM\AE403-BAM\install\bam_launcher\Lib\site-packages;D:\BAM\AE403-BAM\install\phase_space_warping_py\Lib\site-packages;D:\BAM\AE403-BAM\install\drone_plotter_py\Lib\site-packages;%PYTHONPATH% C:\Users\SirSi\robostack\.pixi\envs\jazzy\python.exe -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ..\..\..\build\bam_launcher build --build-base D:\BAM\AE403-BAM\build\bam_launcher\build install --record D:\BAM\AE403-BAM\build\bam_launcher\install.log --single-version-externally-managed install_data

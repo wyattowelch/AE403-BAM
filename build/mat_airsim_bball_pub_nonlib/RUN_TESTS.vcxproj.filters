@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\BAM\AE403-BAM\build\mat_airsim_bball_pub_nonlib\CMakeFiles\a1a009ab1a8178938cd176caab363382\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B0A4B369-DC77-343F-8962-7CE7C58C3D6A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
